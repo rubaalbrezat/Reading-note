@@ -26,4 +26,5 @@
 ## Prep Work 401
 [Sql](prep401/Sql.md)
 [Bash](prep401/Bash.md)
+[Mindset](prep401/Mindset.md)
 ## Code 401 - Advanced Software Development
