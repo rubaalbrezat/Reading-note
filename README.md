@@ -28,3 +28,4 @@
 [Bash](prep401/Bash.md)
 [Mindset](prep401/Mindset.md)
 ## Code 401 - Advanced Software Development
+[SQL,ORM,Sequelize](read401/Sql.md)
