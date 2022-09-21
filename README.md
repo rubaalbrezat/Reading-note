@@ -29,4 +29,4 @@
 [Mindset](prep401/Mindset.md)
 ## Code 401 - Advanced Software Development
 [SQL,ORM,Sequelize](read401/Sql.md)
-[stack&queue](read401/Stack vs Queue.md)
+[stack&queue](read401/StackvsQueue.md)
