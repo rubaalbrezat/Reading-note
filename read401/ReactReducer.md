@@ -9,7 +9,7 @@ During subsequent re-renders, the first value returned by useState will always b
 
 3. Is useState() synchronous?
  the setState method is asynchronous
-
+_____________________________
 
  # Vocabulary Terms
 
