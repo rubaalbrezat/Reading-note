@@ -28,6 +28,12 @@
 [Bash](prep401/Bash.md)
 [Mindset](prep401/Mindset.md)
 ## Code 401 - Advanced Software Development
+<<<<<<< HEAD
 [SQL,ORM,Sequelize](read401/Sql.md)
 [stack&queue](read401/StackvsQueue.md)
 [Reducer](read401/ReactReducer.md)
+=======
+[SQL,ORM,Sequelize](read401/Sql.md),
+
+[stack&queue](read401/StackvsQueue.md)
+>>>>>>> refs/remotes/origin/main
