@@ -30,3 +30,4 @@
 ## Code 401 - Advanced Software Development
 [SQL,ORM,Sequelize](read401/Sql.md)
 [stack&queue](read401/StackvsQueue.md)
+[Reducer](read401/ReactReducer.md)
