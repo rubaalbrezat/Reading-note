@@ -18,3 +18,12 @@ _____________________________
 
  component lifecycle
   The lifecycle of a component is the series of methods that are invoked in different stages of the component's existence.
+
+  ______________________________
+
+  Preparation Materials
+[whatIsReducer](https://www.robinwieruch.de/javascript-reducer/)
+
+[useReducerhook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+
+[UltimateGuidetouseReducer](https://blog.logrocket.com/react-usereducer-hook-ultimate-guide/)
