@@ -44,3 +44,5 @@
 [ChakraUI](read401/ChakraUI.md)
 
 [Graph](read401/graph.md)
+
+[Redux](read401/Redux.md)
